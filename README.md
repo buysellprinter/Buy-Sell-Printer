@@ -42,7 +42,7 @@ Verification and inspection features will depend on the services implemented and
 
 BSP is currently under development. We are working toward building a dedicated platform for the production printing community.
 
-**Website:** [Visit BuySellPrinter](YOUR_WEBSITE_URL)
+**Website:** [Visit BuySellPrinter](http://www.buysellprinter.com)
 
 **Brand:** BuySellPrinter (BSP)
 
